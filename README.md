@@ -45,4 +45,4 @@ Dragonheart 2: A New Beginning (2000)
 
 The limitation of the method is the reliance on surface level similarities between items. In our case, the feature considered are movie genres, but that may not adequately capture why a user rated that movie highly.
 
-Th i
+A possible mitigation strategy would be the use of the film's metadata in the creation of the features
